@@ -1,0 +1,6 @@
+@media(max-width: 334px){
+    .box, .page_1{
+        width: 90%;
+        padding: 10px;
+    }
+}
